@@ -1,0 +1,52 @@
+﻿" Wholesale vegetable prices, organic and conventional, monthly and annual, 2012", , , , , , , , , , , , , , , , ,
+Commodity,Subgroup,Package,Organic/ Conventional,Terminal Market,12-Jan,12-Feb,12-Mar,12-Apr,12-May,12-Jun,12-Jul,12-Aug,12-Sep,12-Oct,12-Nov,12-Dec, 2012
+Artichoke (SF only),Globe,cartons  24s,Conv,San Fran,28.58,30,30.94,18.5,13.48,17.83,30,35.26,25.75,24.66,23.47,26.29,24.12
+Artichoke (SF only),Globe,cartons  24s,Org,San Fran,37.34,35.46,N\A,N\A,N\A,30.31,35,40.12,45.5,40.47,32.76,32.5,36.88
+Cabbage,Round green type,40 lb cartons  medium,Conv,Atlanta,N\A,N\A,N\A,N\A,N\A,N\A,N\A,16.5,N\A,N\A,N\A,N\A,16.5
+Cabbage,Round green type,45 lb cartons  medium,Org,Atlanta,33.95,36.35,29.59,24.43,29,32.94,N\A,52.77,45.5,36.78,42,45.65,37.67
+Cabbage,Round green type,45 lb cartons  18-24s,Conv,San Fran,14.85,8.4,10.37,8.77,9.73,10.81,10.78,11.76,15.86,19.19,19.16,15.85,12.87
+Cabbage,Round green type,45 lb cartons  18-24s,Org,San Fran,N\A,28.59,25.8,24.25,24.42,24.38,26.7,38.79,50.29,38.84,34.5,32.53,33.12
+Carrots,Not specified,25 lb sacks loose,Conv,Atlanta,12.5,12.25,11.5,11.81,11.08,12.68,12.61,12.59,12.5,12.5,12.5,12.5,12.18
+Carrots,Not specified,25 lb sacks loose,Org,Atlanta,24.97,23.93,30.63,28.39,31.39,31.25,31.4,30.51,30.73,26.64,26.38,24.5,28.35
+Carrots,Topped,25 lb sacks loose,Conv,San Fran,6.6,7.28,6.87,6.71,8.03,7.84,9.23,8.33,8.69,7.72,8.41,8.96,7.89
+Carrots,Topped,25 lb sacks loose,Org,San Fran,22,22,22,22,22,21.96,21.25,21.9,22,21.73,21,21,21.75
+Cauliflower,White,cartons  film wrapped  12s,Conv,Atlanta,15.03,12.84,17.93,14.62,15.66,18.83,15.32,16.22,18.12,15.42,19.02,18.67,16.03
+Cauliflower,White,cartons  film wrapped  12s,Org,Atlanta,N\A,N\A,N\A,N\A,35.97,35,44.45,39.91,38,37.5,38.6,38.75,38.74
+Cauliflower,White,cartons  film wrapped  12s,Conv,San Fran,11.24,9.75,13.88,10.32,12.18,12.68,10.26,10.12,12.87,10.07,16.44,14.83,12.01
+Cauliflower,White,cartons  film wrapped  12s,Org,San Fran,20.1,17.83,23.42,33,21,24.75,29.18,22.5,N\A,N\A,23.5,25.5,24.1
+Greens,Swiss Chard mixed colors,cartons bunched  24s,Conv,Atlanta,25.03,25.5,25.5,24.98,24.5,N\A,N\A,N\A,N\A,N\A,N\A,N\A,25.18
+Greens,Swiss Chard  mixed ,cartons bunched  24s,Org,Atlanta,N\A,32.21,35.39,38,47.37,50.25,N\A,N\A,N\A,N\A,N\A,35,39.34
+Greens,Swiss Chard mixed colors,cartons bunched  24s,Conv,San Fran,N\A,N\A,N\A,N\A,N\A,N\A,N\A,N\A,N\A,N\A,8.5,N\A,8.5
+Greens,Swiss Chard mixed colors,cartons bunched  24s,Org,San Fran,23.81,22.59,20.54,18.86,23.26,16.87,12.75,17.28,16.29,14.45,12.87,13.33,18.13
+Lettuce,Green leaf,cartons  24s,Conv,Atlanta,18.84,14.12,13.05,15.98,17.15,15.94,19.12,20.76,18.68,15.34,15.83,14.2,16.55
+Lettuce,Green leaf,cartons  24s,Org,Atlanta,36.74,32.06,34.13,39.36,36.1,42.88,36.26,37.43,50.5,42.17,43.5,44,38.79
+Lettuce,Green leaf,cartons  24s,Conv,San Fran,16.75,14.14,12.68,13.55,14.64,12.33,17.1,17.57,15.05,12.44,13.51,14.67,14.53
+Lettuce,Green leaf,cartons  24s,Org,San Fran,20.07,18.4,21.72,24.67,20.13,25.68,20.18,25.91,30.13,28.27,30.83,27.17,24.61
+Lettuce,Romaine,cartons  24s,Conv,Atlanta,17.59,14.8,14.02,16.52,17.44,17.62,22.01,24.88,20.95,17.25,18.58,16.13,18.19
+Lettuce,Romaine,cartons  24s,Org,Atlanta,40.31,34.7,31.2,39.38,37.6,44.15,41,41.01,53.14,43.01,39.5,54,41.14
+Lettuce,Romaine,cartons  24s,Conv,San Fran,16,13.64,12.75,13.38,13.58,12.55,18.19,19.33,15.7,12.63,14.94,14.93,14.8
+Lettuce,Romaine,cartons  24s,Org,San Fran,28.4,23.04,28.82,30.11,18.14,29.39,23.8,30.39,31.84,25.77,38.72,31.22,28.96
+Mesculin Mix,,3 lb cartons,Conv,Atlanta,8,8,7.89,7.75,7.75,7.75,7.75,7.75,7.75,7.75,7.75,7.75,7.8
+Mesculin Mix,,3 lb cartons,Org,Atlanta,18,N\A,N\A,18,18,18,17.63,18.67,20.83,19.91,15.43,17.48,17.48
+Mesculin Mix,,3 lb cartons,Conv,San Fran,5.25,5.25,5.33,5.38,5.38,5.38,5.38,5.38,5.43,5.5,5.5,5.5,5.39
+Mesculin Mix,,3 lb cartons,Org,San Fran,6.5,6.5,6.17,6,6,6,6,6,6,6,6,6,6.1
+Onions Dry,Yellow Hybrid,All packages - no 40 lb cartons  JBO,Conv,Atlanta,11.91,10.01,9.68,12.5,15.5,N\A,16.39,16.64,12.47,11.57,12.9,16.55,13.29
+Onions Dry,Yellow Hybrid,40 lb cartons  JBO,Org,Atlanta,29.24,29.89,30.59,32.38,N\A,49.75,48.38,49.72,47.34,34.18,32.69,32,36.85
+Onions Dry,Yellow Hybrid,40 lb cartons  JBO,Conv,San Fran,20.25,14.5,20.25,N\A,N\A,N\A,N\A,N\A,N\A,N\A,N\A,N\A,17.66
+Onions Dry,Yellow Hybrid,40 lb cartons  JBO,Org,San Fran,19.88,19.47,19.75,N\A,N\A,N\A,N\A,N\A,N\A,N\A,N\A,N\A,19.68
+Spinach,Flat,cartons  bunched  24s,Conv,Atlanta,20.32,19.88,19.06,19.42,18.23,19.78,17.44,20.65,24.16,19.24,19.48,16.58,19.44
+Spinach,Flat,cartons  bunched  24s,Org,Atlanta,N\A,N\A,N\A,N\A,N\A,N\A,N\A,N\A,64.2,42.57,N\A,N\A,48.26
+Spinach,Flat,cartons  bunched  24s,Conv,San Fran,14.23,12.39,12.4,12.75,10.84,14.04,10.93,15.84,15,11.58,13.82,11.58,13
+Spinach,Flat,cartons  bunched  24s,Org,San Fran,28.24,38.69,41,37.25,N\A,32.48,41.13,46.55,43.16,35.48,34.39,30.73,37.3
+Potatoes,Russet,50 lb cartons  US. No.1,Conv,Atlanta,16.26,15.95,17.7,19.13,18.43,17.02,15.91,16.37,14,11.82,12.09,12.2,15.55
+Potatoes,Russet,50 lb cartons  US. No.1,Org,Atlanta,46.5,46.5,51.03,55.63,N\A,N\A,64,64.63,53.58,51.84,48,48,51.08
+Potatoes,Russet,50 lb cartons  US. No.1,Conv,San Fran,12.96,12.77,14.05,14.58,14.41,13.43,12.43,12.64,9.56,8.62,9.11,10.11,12.32
+Potatoes,Russet,50 lb cartons  US. No.1,Org,San Fran,29.33,N\A,N\A,N\A,N\A,N\A,49.02,48.47,45.63,39.93,34.03,32.25,39.07
+Tomatoes Cherry,no Pear type,no Flats 12 1/2 pt cups with lids,Conv,Atlanta,11.71,9.91,11.16,10.82,12.51,16.89,17.06,14.39,15.37,17.14,13.24,14.02,13.94
+Tomatoes Cherry,no Pear type,no Flats 12 1/2 pt cups with lids,Org,Atlanta,N\A,N\A,N\A,26.17,27.64,N\A,N\A,N\A,N\A,29.7,N\A,N\A,27.76
+Tomatoes Cherry,no Pear type,Flats 12 1-pt cups with lids,Conv,San Fran,N\A,N\A,N\A,11.5,11.5,N\A,N\A,16,N\A,N\A,N\A,N\A,15.1
+Tomatoes Cherry,Pear type,Flats 12 1/2 pt cups with lids,Org,San Fran,40.63,35.7,35.15,33.25,36.85,38.88,35.5,36.87,37,41.14,44,49.83,37.93
+Sweet Potatoes,Orange types,40 lb cartons  U.S. No 1,Conv,Atlanta,20.14,19.99,19.51,19.25,19,19,19.39,19.25,18.21,18.08,19.15,18.89,19.14
+Sweet Potatoes,Orange types,40 lb cartons  U.S. No 1,Org,Atlanta,44.32,45.36,43.86,44.25,33.61,31.25,43.39,41.25,41.18,34.69,29.88,34.13,38.19
+Sweet Potatoes,Orange types,40 lb cartons  U.S. No 1,Conv,San Fran,21,21,21.62,24.32,N\A,25,25,28.6,28.05,27.18,26,25.44,24.63
+Sweet Potatoes,Orange types,40 lb cartons  U.S. No 1,Org,San Fran,28.5,28.5,30.04,32.5,N\A,30,30,47.39,42.41,39.86,32.26,30.44,34.08
