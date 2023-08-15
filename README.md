@@ -1,2 +1,2 @@
 # Python_Intermediate
-getting good at Pandas, trying out web scraping, 
+Getting good at Pandas, trying out web scraping, and attempting data preprocessing
